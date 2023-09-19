@@ -10,6 +10,8 @@ function radicalNumbers (a){
 
 logger(radicalNumbers(4))
 
+
+
 function squareNumbers (b){
     let squareNumbers = b * b;
     return squareNumbers;
@@ -18,12 +20,16 @@ function squareNumbers (b){
 
 logger(squareNumbers(10))
 
+
+
 function toCentimeter(inch) {
     let toCentimeter = inch * 2.54;
     return toCentimeter;
 }
 
 logger(toCentimeter(7))
+
+
 
 function sellingAlcohol (a){ /* just trying boolean with the use of w3 */
     if (a >= 18) {
