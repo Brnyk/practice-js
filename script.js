@@ -33,4 +33,4 @@ function sellingAlcohol (a){ /* just trying boolean with the use of w3 */
         return text ="Too young to buy alcohol";
 }
 
-logger(booleanTry(5))
+logger(sellingAlcohol(5))
